@@ -19,11 +19,10 @@ Php 5.6 or newer
 **{birthday}** - Visitor Birthday<br />
 
 
-### Installing
+### Installing / Configuring
 
 Upload "fishbowl-webhook-trigger-example.php" into your project folder. Example: http://yourcustomsite.com/project/fishbowl-webhook-trigger-example.php.
-Once the file is uploaded you may then edit "fishbowl-fishbowl-webhook-trigger-example.php" by replacing the variables with the 'XXXXXXX' values with your specific details.
-Some of the details you may acquire from your Fishbowl marketing account or from their support. 
+Once the file is uploaded you may then edit "fishbowl-fishbowl-webhook-trigger-example.php" by replacing the variables with the 'XXXXXXX' values with your specific details. Some of the details you may acquire from your Fishbowl marketing account or from their support. 
 
 ```
 //======================================================================//
@@ -41,7 +40,7 @@ $user_storecode = 'XXX'; // 002
 
 ```
 
-### Configuration
+### SETUP
 
 Gazella Webhook Trigger:
 > Setup here: https://sys.gazellawifi.com/triggers/

@@ -40,7 +40,7 @@ $user_storecode = 'XXX'; // 002
 
 ```
 
-### SETUP
+### Gazella Setup
 
 Gazella Webhook Trigger:
 > Setup here: https://sys.gazellawifi.com/triggers/

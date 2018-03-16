@@ -16,7 +16,16 @@ Php 5.6 or newer
 **{time}** - Visitor Date / Time<br />
 **{phone}** - Visitor Phone<br />
 **{email}** - Visitor E-mail<br />
+**{gender}** - Visitor Gender<br />
 **{birthday}** - Visitor Birthday<br />
+**{id}** - Visitor Device ID<br />
+**{type}** - Visitor Device Type<br />
+**{browser}** - Visitor Device Browser<br />
+**{os}** - Visitor Device OS<br />
+**{custom1}** - Custom Field 1<br />
+**{custom2}** - Custom Field 2<br />
+**{custom3}** - Custom Field 3<br />
+**{check_type}** - Visitor Auth Type. May be one of these: "facebook", "phone", "email", "code"<br />
 
 
 ### Installing / Configuring

@@ -12,10 +12,10 @@ $gets = $_GET;
 $sendto = 'XXXXXX';  // your@email.com
 
 /* These are details needed from your Fishbowl Marketing account */
-$user_user_subscribe_url = 'http://XXXXXXXX.fbmta.com/members/subscribe.aspx';  // http://youraccount.fbmta.com/members/subscribe.aspx
+$user_subscribe_url = 'http://XXXXXXXX.fbmta.com/members/subscribe.aspx';  // http://youraccount.fbmta.com/members/subscribe.aspx
 $user_guid = 'XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX'; // A23465D0-FE25-2129-1930-348FA2E5A4B1
-$user_user_list_id = 'XXXXXXXXXX'; // 17849029382
-$user_storecode = 'XXX'; // 002 
+$user_list_id = 'XXXXXXXXXX'; // 17849029382
+$user_storecode = 'XXX'; // 002  
 
 if (isset($_GET['email'])) {
     // initial data
